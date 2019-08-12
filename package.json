@@ -1,0 +1,20 @@
+{
+  "name": "tama",
+  "version": "1.0.0",
+  "description": "single file tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "single",
+    "file",
+    "tool"
+  ],
+  "author": "csw",
+  "license": "MIT",
+  "dependencies": {
+    "htmlparser": "^1.7.7"
+  }
+}
