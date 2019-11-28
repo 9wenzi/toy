@@ -15,6 +15,7 @@
   "author": "csw",
   "license": "MIT",
   "dependencies": {
-    "htmlparser": "^1.7.7"
+    "htmlparser": "^1.7.7",
+    "less": "^3.10.3"
   }
 }
